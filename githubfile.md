@@ -21,4 +21,4 @@ Another paragraph starts here!
 
 >**NOTE2:** This can be a Note 2.
 
-You can also use Links easily in .md files, like [PWSkills](www.pwskills.com).
+You can also use Links easily in .md files, like [PWSkills](https://pwskills.com/).
